@@ -1,6 +1,0 @@
-#Engenharia de Automação e Controle
-
-```sql
-USE teste;
-SELECT * FROM table_teste;
-```
